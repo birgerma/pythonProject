@@ -1,2 +1,2 @@
 print("HELLO WORLD!")
-print("Goodbye world!")
+print("END OF PROGRAM")
